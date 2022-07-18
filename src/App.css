@@ -1,0 +1,71 @@
+/* app */
+.app-body {
+    background-color: #fafaff;
+    font-family: 'Koulen', cursive;
+}
+
+
+/* header */
+.navbar-dark {
+    background-image: linear-gradient(#DE1B0B, #F52500, #FF4B00);
+    margin-bottom : 20px;
+    padding: 60px;
+    min-height: 8rem;
+}
+/* can i make a vavbar? */
+
+
+/* login stuff */
+.bg-login {
+    background-color: #086FA8;
+}
+
+.bg-signin {
+    background-color: #086FA8;
+}
+
+/* selection */
+
+.row-selection {
+    margin: 10px 0; 
+}
+
+.seletcion-form {
+    background-color: #9ed9f9;
+    padding: 10px;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #086FA8; 
+}
+
+.type-btn {
+    background-color: #0e0041;
+    color: #18A6F5;
+    margin: 0 5px; 
+}
+
+
+/* about us and options cards */
+.news-card {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.img-option {
+    height: 180px;
+    object-fit: cover;
+    object-position: 100% 100%; }
+
+
+/* about us photos */
+.news-img {
+    height: 270px;
+    object-fit: cover;    
+    object-position: 100% 50%;
+}
+
+/* footer */
+.site-footer {
+    padding: 20px 0;
+    background-image: linear-gradient(#fafaff, #18A6F5, #0e0041);
+}
